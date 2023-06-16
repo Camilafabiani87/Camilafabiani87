@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
-<h3 align="center">A passionate Full - Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full - Stack developer</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java, Javascript, Spring, Vue js, Bootstrap,CSS, HTML5**
+- 🌱 Ask me about **Java, Javascript,React, Spring, Vue js, Bootstrap,CSS, HTML5**
 
 - 📫 How to reach me **camilafabiani.f@gmail.com**
 
